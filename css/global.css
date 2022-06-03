@@ -5,6 +5,7 @@
 }
 
 body {
+    margin: 0; /* to get rid of white space around edges of webpage */
     font-family: Verdana;
 }
 

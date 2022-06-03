@@ -29,5 +29,6 @@
 
 .article-card__activity {
     background-color: #FEFAF5;
+    list-style-type: none;
 }
 
