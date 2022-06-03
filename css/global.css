@@ -3,3 +3,38 @@
 *::after {
     box-sizing: border-box;
 }
+
+body {
+    font-family: Verdana;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.navbar__logo {
+    color: #335576;
+}
+
+.navbar__link {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.navbar__link--current {
+    border-bottom: 0.0625rem solid #DB7A4E;
+}
+
+.footer {
+    background-color: #FEFAF5;
+}
+
+.footer__title,
+.footer__text {
+    color: #335576;
+}
+
+.footer__subtitle {
+    color: #DB7A4E;
+    text-transform: uppercase;
+}
