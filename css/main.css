@@ -1,0 +1,14 @@
+.hero {
+    background-color: #FEFAF5;
+}
+
+.hero__slogan {
+    text-align: left;
+    color: #335576;
+}
+
+.hero__button {
+    background-color: #DB7A4E;
+    color: #FFFFFF;
+    border-radius: 0.625rem;
+}
