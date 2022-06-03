@@ -1,0 +1,33 @@
+.main-container--hawaii {
+    background-image: url('../assets/images/hawaii.jpg');
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.main-container--iceland {
+    background-image: url('../assets/images/iceland.jpg');
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.main-container--greece {
+    background-image: url('../assets/images/greece.jpg');
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.main-container__title {
+    color: white;
+}
+
+.article-card {
+    border-radius: 0.3125rem; /* 5px */
+}
+.article-card__title {
+    font-weight: bold;
+}
+
+.article-card__activity {
+    background-color: #FEFAF5;
+}
+
