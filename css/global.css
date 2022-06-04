@@ -32,13 +32,13 @@ body {
 .navbar__logo {
     color: #335576;
     text-decoration: none;
-    margin-left: 6rem; /* 96px */
+    margin-left: 4rem; /* 64px */
     font-weight: bold;
 }
 
 .navbar__links {
     display: flex;
-    margin-right: 6rem; /* 96px */
+    margin-right: 7rem; /* 112px */
 }
 
 .navbar__link {

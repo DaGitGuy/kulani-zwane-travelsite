@@ -4,6 +4,7 @@
 }
 .hero {
     background-color: #FEFAF5;
+    display: flex;
 }
 
 .hero__slogan {
@@ -11,14 +12,48 @@
     color: #335576;
 }
 
+.hero__title {
+    margin-top: 0;
+    padding-top: 8.4375rem; /* 135px */
+    padding-left: 6.25rem; /* 100px */
+    width: 60%;
+}
+
+.hero__text {
+    padding-left: 6.25rem; /* 100px */
+    width: 80%;
+    font-size: 0.625rem; /* 10px */
+    font-weight: bold;
+    margin-bottom: 1.5625rem; /* 25px */
+}
+
 .hero__button {
     background-color: #DB7A4E;
     color: white;
-    border-radius: 0.625rem;
+    border-radius: 1rem; /* 16px */
+    margin-left: 6.25rem; /* 100px */
+    padding: 0.5rem 1.75rem; /* 8px 28px */
+    font-size: 0.625rem; /* 10px */
+    text-decoration: none;
+}
+
+.hero__image {
+    height: 16.875rem; /* 270px */
+    margin-top: 6.25rem; /* 100px */
+    margin-left: 5rem; /* 80px */
+    margin-bottom: 3.75rem; /* 60px */
 }
 
 .main-container__title {
-    background-color: #335576;
+    color: #335576;
+    margin-top: 0;
+    padding-top: 35px;
+    padding-left: 6.25rem; /* 100px */
+}
+
+.articles {
+    display: flex;
+    justify-content: center;
 }
 
 .article-card {
