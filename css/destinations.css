@@ -7,13 +7,13 @@
 .main-container--iceland {
     background-image: url('../assets/images/iceland.jpg');
     background-size: cover;
-    /* background-position: center; */
+    background-position: center;
 }
 
 .main-container--greece {
     background-image: url('../assets/images/greece.jpg');
     background-size: cover;
-    /* background-position: center; */
+    background-position: center;
 }
 
 .main-container__title {
